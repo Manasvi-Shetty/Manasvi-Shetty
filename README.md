@@ -1,4 +1,4 @@
-- 👋🏼 Hi, I’m @Manasvi-Shetty
+- <h1>👋🏼 Hi, I’m @Manasvi-Shetty</h1>
 - ✨ I’m practicing in UI/UX Design and Web Development
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 🤝🏼 I’m looking to collaborate on various design projects.
